@@ -27,3 +27,6 @@ Prediction:
 ![Image2](https://raw.githubusercontent.com/vneogi199/Classification-of-Fruit-images-using-VGG16/master/Screenshot%20from%202018-05-25%2016-11-24.png)
 
 ![Image3](https://raw.githubusercontent.com/vneogi199/Classification-of-Fruit-images-using-VGG16/master/Screenshot%20from%202018-05-25%2016-11-40.png)
+
+
+Dataset and Credits: https://www.kaggle.com/moltean/fruits
